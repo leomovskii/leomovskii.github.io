@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: 
+    children:
+    - title: "Блог про код и книжки"
+      url: /
+    - title: "Блог с картинками"
+      url: "https://burlakov.io"
+    - title: "Обо мне"
+      url: /about/
